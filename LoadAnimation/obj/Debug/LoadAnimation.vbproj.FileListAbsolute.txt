@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\bin\Debug\LoadAnimation.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\bin\Debug\LoadAnimation.exe
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\bin\Debug\LoadAnimation.pdb
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\bin\Debug\LoadAnimation.xml
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\obj\Debug\LoadAnimation.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\obj\Debug\LoadAnimation.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\obj\Debug\LoadAnimation.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\obj\Debug\LoadAnimation.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\obj\Debug\LoadAnimation.exe
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\obj\Debug\LoadAnimation.xml
+c:\users\user\documents\visual studio 2015\Projects\LoadAnimation\LoadAnimation\obj\Debug\LoadAnimation.pdb
